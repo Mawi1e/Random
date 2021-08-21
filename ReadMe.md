@@ -21,7 +21,8 @@ mawile::RandomShake::Shake(-3.1, 3.2);
 <br></br>
 # **Pictures**
 
-![]()
+![](https://github.com/Mawi1e/Random/blob/main/pictures/1_1.PNG)
+![](https://github.com/Mawi1e/Random/blob/main/pictures/1_2.PNG)
 
 
 <br></br>
