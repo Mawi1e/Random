@@ -26,7 +26,3 @@ mawile::RandomShake::Shake(-3.1, 3.2);
 
 
 <br></br>
-# **Blog**
-
-* **[Velog](https://velog.io/@dpmawile)**
-* **[Tistory](https://mawile.tistory.com)**
